@@ -14,7 +14,7 @@ This skill is compatible with **Claude Code**, **Cursor**, **GitHub Copilot**, a
 
 Run this command in your terminal to add the Architect to your environment:
 
-npx skills add elad-zoarets/claude-skill-builder -y
+npx skills add eladzoarets/claude-skill-builder -y
 
 ---
 
